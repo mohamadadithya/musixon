@@ -4,6 +4,8 @@
 ## What is Musixon?
 Musixon is a web template for introducing a musician. This template is made with Bootstrap 4.
 
+Demo: https://musixon.netlify.app
+
 ### Features
 * Login and Register Page
 * About Musician
